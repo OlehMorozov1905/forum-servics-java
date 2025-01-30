@@ -1,7 +1,5 @@
 # Forum Service
 
-# Forum Service
-
 ## Description
 Forum Service is a backend API for managing forum posts, comments, and users. It allows creating, updating, and deleting posts, adding comments, and managing user roles.
 
