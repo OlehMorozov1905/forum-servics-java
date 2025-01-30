@@ -1,4 +1,4 @@
-package ait.cohort34.post.service;
+package ait.forum.post.service;
 
 import ait.forum.post.dao.PostRepository;
 import ait.forum.post.dto.DatePeriodDto;
@@ -7,7 +7,6 @@ import ait.forum.post.dto.NewPostDto;
 import ait.forum.post.dto.PostDto;
 import ait.forum.post.model.Post;
 import ait.forum.post.dto.exceptions.PostNotFoundException;
-import ait.forum.post.service.PostServiceImpl;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import org.mockito.InjectMocks;

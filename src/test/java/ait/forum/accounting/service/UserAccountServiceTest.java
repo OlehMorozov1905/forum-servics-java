@@ -1,4 +1,4 @@
-package ait.cohort34.accounting.service;
+package ait.forum.accounting.service;
 
 import ait.forum.accounting.dao.UserAccountRepository;
 import ait.forum.accounting.dto.UserDto;
@@ -7,7 +7,6 @@ import ait.forum.accounting.dto.UserRegisterDto;
 import ait.forum.accounting.dto.exceptions.UserExistsException;
 import ait.forum.accounting.dto.exceptions.UserNotFoundException;
 import ait.forum.accounting.model.UserAccount;
-import ait.forum.accounting.service.UserAccountServiceImpl;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.extension.ExtendWith;

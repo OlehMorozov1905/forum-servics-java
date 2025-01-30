@@ -1,6 +1,5 @@
-package ait.cohort34.post.controller;
+package ait.forum.post.controller;
 
-import ait.forum.post.controller.PostController;
 import ait.forum.post.dto.PostDto;
 import ait.forum.post.dto.NewPostDto;
 import ait.forum.post.dto.NewCommentDto;

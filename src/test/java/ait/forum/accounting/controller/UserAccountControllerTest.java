@@ -1,6 +1,5 @@
-package ait.cohort34.accounting.controller;
+package ait.forum.accounting.controller;
 
-import ait.forum.accounting.controller.UserAccountController;
 import ait.forum.accounting.dto.RolesDto;
 import ait.forum.accounting.dto.UserDto;
 import ait.forum.accounting.dto.UserEditDto;
